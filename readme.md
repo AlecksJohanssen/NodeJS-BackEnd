@@ -4,7 +4,7 @@ This is the starter project for building TopCat, a real-time game for voting on 
 
 ## Getting Started ##
 
-Make sure you have [NodeJS](https://nodejs.org/en/download/) installed and the `node` and `npm` commands in your PATH.
+Make sure you have [NodeJS](https://nodejs.org/en/download/current/) installed and the `node` and `npm` commands in your PATH.
 
 You will need NodeJS version 6.3 or later to run this project.
 
