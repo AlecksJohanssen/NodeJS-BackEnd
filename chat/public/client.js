@@ -29,5 +29,7 @@ $(document).ready(function() {
         console.log(message)
 
         socket.send(message);
+
+        $('input[name="message"]').val('')
     });
 });
