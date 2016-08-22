@@ -12,6 +12,7 @@ const app = express();
 /**
  * Express will serve the static files from our `public` directory.
  */
+ 
 app.use(express.static(__dirname + '/public'));
 
 /**
